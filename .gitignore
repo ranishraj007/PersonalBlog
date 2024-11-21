@@ -1,0 +1,90 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Vite build output
+dist/
+
+# Tailwind CSS cache
+.tailwind/
+
+# Local environment files
+.env
+.env.*.local
+
+# Log files
+logs/
+*.log
+*.log.*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files and artifacts
+*.tmp
+*.temp
+*.cache
+*.bak
+*.old
+*.lock
+*.pid
+*.seed
+*.pid.lock
+
+# TypeScript
+*.tsbuildinfo
+
+# IntelliJ
+*.iml
+out/
+
+# Coverage directory used by tools like istanbul/jest
+coverage/
+
+# Lint cache
+.eslintcache
+.stylelintcache
+.prettier-cache
+
+# Build tools
+/.parcel-cache
+/.turbo/
+
